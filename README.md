@@ -5,12 +5,12 @@ These are the complete notebooks to reproduce the plots in "Unsupervised mapping
 
 The notebooks are nummerically ordered to reproduce Figs. 1-3. 
 
-The data from the simulated PEPS (bond singular values and reduced density matrices) are in ´´´data´´´
+The data from the simulated PEPS (bond singular values and reduced density matrices) are in `data`
 
-Intermediate results are saved for convenience in ´´´data_results´´´.
+Intermediate results are saved for convenience in `data_results`.
 
-´´´AD_tools.py´´´ contains some functions that are used for the anomaly detection in all notebooks.
+`AD_tools.py` contains some functions that are used for the anomaly detection in all notebooks.
 
-´´´plots´´´ contains the resulting figures as well as additional images like training convergences.
+`plots` contains the resulting figures as well as additional images like training convergences.
 
-´´´CNN_data´´´ contains the parameters of the neural networks involved. Training is _very_ fast here, so there is not really a need for it.
+`CNN_data` contains the parameters of the neural networks involved. Training is _very_ fast here, so there is not really a need for it.
