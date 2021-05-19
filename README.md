@@ -1,4 +1,5 @@
 # anoamly-detection-PEPS
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4770558.svg)](https://doi.org/10.5281/zenodo.4770558)
 Deep anomaly detection for mapping out phase diagrams with PEPS
 
 These are the complete notebooks to reproduce the plots in "Unsupervised mapping of phase diagrams of 2D systems from infinite projected entangled-pair states via deep anomaly detection" by Korbinian Kottmann, Philippe Corboz, Maciej Lewenstein and Antonio Acín (arxiv link tba).
