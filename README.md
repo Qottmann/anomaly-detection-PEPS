@@ -1,4 +1,4 @@
-# anoamly-detection-PEPS
+# anomaly-detection-PEPS
 ## Deep anomaly detection for mapping out phase diagrams with PEPS  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4770558.svg)](https://doi.org/10.5281/zenodo.4770558)  
 
